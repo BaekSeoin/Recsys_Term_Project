@@ -11,6 +11,7 @@
 ├── content_based.py
 ├── data
 │   ├── movies_w_imgurl.csv
+│   ├── tags.csv
 │   └── rating.csv
 ├── main.py
 ├── input.txt
