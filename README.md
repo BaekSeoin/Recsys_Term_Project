@@ -12,6 +12,8 @@
 │   ├── movies_w_imgurl.csv
 │   └── rating.csv
 ├── main.py
+├── input.txt
+├── output.txt
 └── requirments.txt
 
 ```
@@ -30,6 +32,8 @@ $> python main.py
 │   ├── rating_train.csv
 │   └── rating_test.csv
 ├── main.py
+├── input.txt
+├── output.txt
 └── requirments.txt
 
 ```
