@@ -6,7 +6,7 @@
 ### 1. Contents-based method
 
 ```bash
-PRJ1_202092464_백서인
+1. Contents-based method
 ├── content_based.py
 ├── data
 │   ├── movies_w_imgurl.csv
@@ -23,7 +23,7 @@ $> python main.py
 ### 2. Item-based method & Matrix Factorization method
 
 ```bash
-PRJ2_202092464_백서인
+2. Item-based method_Matrix Factorization method
 ├── Item_based_CF.py
 ├── Matrix_Factorization.py
 ├── data
