@@ -15,6 +15,8 @@ PRJ1_202092464_백서인
 └── requirments.txt
 
 ```
+
+```
 $> python main.py
 
 ```
@@ -30,6 +32,8 @@ PRJ2_202092464_백서인
 │   └── rating_test.csv
 ├── main.py
 └── requirments.txt
+
+```
 
 ```
 $> python main.py
