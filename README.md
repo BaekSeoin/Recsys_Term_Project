@@ -18,7 +18,6 @@ PRJ1_202092464_백서인
 
 ```
 $> python main.py
-
 ```
 
 ### 2. Item-based method & Matrix Factorization method
@@ -37,5 +36,4 @@ PRJ2_202092464_백서인
 
 ```
 $> python main.py
-
 ```
