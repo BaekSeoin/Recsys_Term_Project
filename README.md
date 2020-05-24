@@ -2,6 +2,7 @@
 
 데이터베이스특강 (부제: 추천시스템) Term project
 
+- 데이터셋 : MovieLens(https://grouplens.org/datasets/movielens/)
 
 ### 1. Contents-based method
 
