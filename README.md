@@ -16,7 +16,7 @@
 ├── main.py
 ├── input.txt
 ├── output.txt
-└── requirments.txt
+└── requirements.txt
 
 ```
 - 실행 방법 
@@ -36,7 +36,7 @@ $> python main.py
 ├── main.py
 ├── input.txt
 ├── output.txt
-└── requirments.txt
+└── requirements.txt
 
 ```
 - 실행 방법 
