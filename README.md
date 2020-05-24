@@ -17,7 +17,7 @@
 └── requirments.txt
 
 ```
-- 실행방법 
+- 실행 방법 
 ```
 $> python main.py
 ```
@@ -37,7 +37,7 @@ $> python main.py
 └── requirments.txt
 
 ```
-- 실행방법 
+- 실행 방법 
 ```
 $> python main.py
 ```
