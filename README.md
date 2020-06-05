@@ -55,6 +55,7 @@ $> python main.py
 ├── main.py
 ├── input.txt
 ├── output.txt
+├── param.data
 └── requirements.txt
 
 ```
