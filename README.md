@@ -43,3 +43,22 @@ $> python main.py
 ```
 $> python main.py
 ```
+
+### 3. Deep learning based method
+
+```bash
+3. Deep learning based method
+├── NeuralMF.py
+├── data
+│   ├── rating_train.csv
+│   └── rating_vali.csv
+├── main.py
+├── input.txt
+├── output.txt
+└── requirements.txt
+
+```
+- 실행 방법 
+```
+$> python main.py
+```
