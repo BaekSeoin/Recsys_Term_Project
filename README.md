@@ -12,7 +12,7 @@
 ├── data
 │   ├── movies_w_imgurl.csv
 │   ├── tags.csv
-│   └── rating.csv
+│   └── ratings.csv
 ├── main.py
 ├── input.txt
 ├── output.txt
@@ -31,8 +31,8 @@ $> python main.py
 ├── Item_based_CF.py
 ├── Matrix_Factorization.py
 ├── data
-│   ├── rating_train.csv
-│   └── rating_test.csv
+│   ├── ratings_train.csv
+│   └── ratings_test.csv
 ├── main.py
 ├── input.txt
 ├── output.txt
@@ -50,8 +50,8 @@ $> python main.py
 3. Deep learning based method
 ├── NeuralMF.py
 ├── data
-│   ├── rating_train.csv
-│   └── rating_vali.csv
+│   ├── ratings_train.csv
+│   └── ratings_vali.csv
 ├── main.py
 ├── input.txt
 ├── output.txt
